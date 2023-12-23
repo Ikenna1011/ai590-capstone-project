@@ -1,7 +1,3 @@
-# ai590-capstone-project
-
-# aai590-capstone-project
-
 # Predictive Model for Production Rates - Capstone Project
 
 ## Overview
